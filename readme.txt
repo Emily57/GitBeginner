@@ -2,6 +2,8 @@ TyranoScript｜ティラノスクリプト　Ver6.00（C）ShikemokuMK
 https://tyrano.jp
 
 練習用にかきますた Windows
+この頃は良かった
+
 
 
 ■主な特徴■
