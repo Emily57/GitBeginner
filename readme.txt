@@ -1,6 +1,8 @@
 TyranoScript｜ティラノスクリプト　Ver6.00（C）ShikemokuMK
 https://tyrano.jp
 
+練習用にかきますた Windows
+
 
 ■主な特徴■
 
